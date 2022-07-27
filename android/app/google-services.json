@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "807985397011",
+    "project_id": "weighttask-df3d4",
+    "storage_bucket": "weighttask-df3d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807985397011:android:ee64e2505f596ab4bcaee6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807985397011-4ojvgi8som157g262l94m5t09unstl11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_task",
+            "certificate_hash": "ff1a0dd8826b871779ccd2abadafef48a41b449a"
+          }
+        },
+        {
+          "client_id": "807985397011-55akvuimfs81od13bt79r2alftaq7avf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHKsEyQ77PMPSonfWNxdxsTIhHqCCTbko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807985397011-55akvuimfs81od13bt79r2alftaq7avf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
